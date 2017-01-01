@@ -1,0 +1,14 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(after 2015-mar-04 BZR unknown)-product*%
+%TF.CreationDate,2015-05-27T15:40:32-04:00*%
+%TF.JobID,arduinoquad,61726475696E6F717561642E6B696361,rev?*%
+%TF.FileFunction,Other,User*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (after 2015-mar-04 BZR unknown)-product) date 27/05/2015 3:40:32 PM*
+%MOMM*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.100000*%
+G04 APERTURE END LIST*
+D10*
+M02*

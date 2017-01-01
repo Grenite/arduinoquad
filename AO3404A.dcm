@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AO3404A
+D N-Channel MOSFET, 30Vds, +-20V Vgs, sot-23
+K N-Channel Mosfet
+$ENDCMP
+#
+#End Doc Library

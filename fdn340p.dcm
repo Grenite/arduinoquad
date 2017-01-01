@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDN340P
+D MOSFET P-CH 20V 2A SSOT3
+K P-Channel MOSFET Logic Level
+F https://www.fairchildsemi.com/datasheets/FD/FDN340P.pdf
+$ENDCMP
+#
+#End Doc Library
